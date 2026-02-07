@@ -1,2 +1,0 @@
-Full-Stack E-Commerce Platform | FastAPI, JavaScript, AWS
-Developed and deployed a scalable e-commerce web application with RESTful API backend (FastAPI, SQLAlchemy), responsive frontend (JavaScript), and production deployment on AWS EC2 with Nginx reverse proxy, Application Load Balancer, and Auto Scaling Groups for high availability.
